@@ -5,3 +5,4 @@
 2020-11-02T01:36:25.499869 - 20194. fix: fix null pointer exception on login #20194
 2020-11-03T01:36:25.499869 - 65665. style: standardize quote style #65665
 2020-11-03T01:36:25.499869 - 72337. chore: bump dependencies #72337
+2020-11-03T01:36:25.499869 - 10023. docs: clarify environment setup #10023
