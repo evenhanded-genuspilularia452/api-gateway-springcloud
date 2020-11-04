@@ -2560,3 +2560,4 @@
 2020-11-02T01:55:47.945812 - 72195. chore: add GitHub actions badge #72195
 2020-11-03T01:55:47.945812 - 40366. refactor: split large controller into smaller functions #40366
 2020-11-03T01:55:47.945812 - 55994. feat: add export to CSV option #55994
+2020-11-04T01:55:47.945812 - 11284. fix: handle 500 error in quiz API #11284
