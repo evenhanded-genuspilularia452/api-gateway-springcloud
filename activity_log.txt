@@ -2569,3 +2569,4 @@
 2020-11-09T01:55:47.945812 - 25834. chore: update .gitignore #25834
 2020-11-09T01:55:47.945812 - 1231. docs: clarify environment setup #1231
 2020-11-10T01:55:47.945812 - 72920. fix: correct typo in registration form #72920
+2020-11-10T01:55:47.945812 - 72731. style: standardize quote style #72731
