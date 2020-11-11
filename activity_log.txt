@@ -2571,3 +2571,4 @@
 2020-11-10T01:55:47.945812 - 72920. fix: correct typo in registration form #72920
 2020-11-10T01:55:47.945812 - 72731. style: standardize quote style #72731
 2020-11-10T01:55:47.945812 - 35590. fix: handle 500 error in quiz API #35590
+2020-11-11T01:55:47.945812 - 85737. fix: handle 500 error in quiz API #85737
