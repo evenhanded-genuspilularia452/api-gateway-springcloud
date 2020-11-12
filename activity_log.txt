@@ -2573,3 +2573,4 @@
 2020-11-10T01:55:47.945812 - 35590. fix: handle 500 error in quiz API #35590
 2020-11-11T01:55:47.945812 - 85737. fix: handle 500 error in quiz API #85737
 2020-11-12T01:55:47.945812 - 32901. fix: fix broken CSS in mobile view #32901
+2020-11-12T01:55:47.945812 - 87899. feat: add export to CSV option #87899
