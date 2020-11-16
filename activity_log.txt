@@ -2579,3 +2579,4 @@
 2020-11-13T01:55:47.945812 - 11032. docs: write FAQ section #11032
 2020-11-13T01:55:47.945812 - 16300. test: add unit test for quiz service #16300
 2020-11-16T01:55:47.945812 - 2719. feat: implement quiz timer feature #2719
+2020-11-16T01:55:47.945812 - 12770. style: reformat files with black #12770
