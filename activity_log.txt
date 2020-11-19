@@ -2585,3 +2585,4 @@
 2020-11-18T01:55:47.945812 - 20200. perf: cache repeated calculations #20200
 2020-11-18T01:55:47.945812 - 53266. perf: lazy-load components #53266
 2020-11-18T01:55:47.945812 - 43269. refactor: refactor quiz grading logic #43269
+2020-11-19T01:55:47.945812 - 63854. docs: write FAQ section #63854
