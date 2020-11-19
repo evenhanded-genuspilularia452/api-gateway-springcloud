@@ -2587,3 +2587,4 @@
 2020-11-18T01:55:47.945812 - 43269. refactor: refactor quiz grading logic #43269
 2020-11-19T01:55:47.945812 - 63854. docs: write FAQ section #63854
 2020-11-19T01:55:47.945812 - 22094. perf: lazy-load components #22094
+2020-11-19T01:55:47.945812 - 3073. feat: support email verification #3073
