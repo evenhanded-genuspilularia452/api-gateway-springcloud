@@ -2589,3 +2589,4 @@
 2020-11-19T01:55:47.945812 - 22094. perf: lazy-load components #22094
 2020-11-19T01:55:47.945812 - 3073. feat: support email verification #3073
 2020-11-20T01:55:47.945812 - 57725. feat: support email verification #57725
+2020-11-20T01:55:47.945812 - 63317. perf: optimize database query for quiz results #63317
