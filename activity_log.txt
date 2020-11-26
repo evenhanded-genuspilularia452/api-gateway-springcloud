@@ -40,3 +40,4 @@
 2020-11-25T01:36:25.499869 - 43116. style: standardize quote style #43116
 2020-11-25T01:36:25.499869 - 82219. chore: bump dependencies #82219
 2020-11-25T01:36:25.499869 - 38900. style: remove trailing whitespace #38900
+2020-11-26T01:36:25.499869 - 85542. test: add integration test for /submit endpoint #85542
