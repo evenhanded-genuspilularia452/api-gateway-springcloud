@@ -2601,3 +2601,4 @@
 2020-11-26T01:55:47.945812 - 24915. test: add integration test for /submit endpoint #24915
 2020-11-26T01:55:47.945812 - 95448. test: mock database connection in test suite #95448
 2020-11-26T01:55:47.945812 - 93025. refactor: split large controller into smaller functions #93025
+2020-11-27T01:55:47.945812 - 1888. perf: optimize database query for quiz results #1888
