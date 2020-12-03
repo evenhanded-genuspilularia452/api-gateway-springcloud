@@ -49,3 +49,4 @@
 2020-12-02T01:36:25.499869 - 84715. test: mock database connection in test suite #84715
 2020-12-02T01:36:25.499869 - 85541. fix: resolve issue with date parsing #85541
 2020-12-02T01:36:25.499869 - 76841. fix: resolve issue with date parsing #76841
+2020-12-03T01:36:25.499869 - 8357. chore: rename env.example #8357
