@@ -66,3 +66,4 @@
 2020-12-16T01:36:25.499869 - 92262. style: reformat files with black #92262
 2020-12-16T01:36:25.499869 - 66790. feat: create admin dashboard #66790
 2020-12-17T01:36:25.499869 - 67198. perf: optimize database query for quiz results #67198
+2020-12-17T01:36:25.499869 - 15179. test: increase coverage on auth module #15179
