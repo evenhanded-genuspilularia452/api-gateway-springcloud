@@ -2639,3 +2639,4 @@
 2020-12-25T01:55:47.945812 - 81574. refactor: organize models into subfolders #81574
 2020-12-25T01:55:47.945812 - 87730. chore: bump dependencies #87730
 2020-12-28T01:55:47.945812 - 66385. docs: improve code comments in utils #66385
+2020-12-29T01:55:47.945812 - 96251. perf: lazy-load components #96251
