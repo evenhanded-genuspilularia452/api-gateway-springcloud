@@ -100,3 +100,4 @@
 2021-01-07T01:36:25.499869 - 64332. test: add integration test for /submit endpoint #64332
 2021-01-08T01:36:25.499869 - 3755. style: standardize quote style #3755
 2021-01-08T01:36:25.499869 - 44967. feat: enable dark mode toggle #44967
+2021-01-08T01:36:25.499869 - 68926. chore: add GitHub actions badge #68926
