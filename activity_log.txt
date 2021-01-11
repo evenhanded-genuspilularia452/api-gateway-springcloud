@@ -2662,3 +2662,4 @@
 2021-01-08T01:55:47.945812 - 20510. style: standardize quote style #20510
 2021-01-11T01:55:47.945812 - 63647. perf: optimize database query for quiz results #63647
 2021-01-11T01:55:47.945812 - 31545. refactor: split large controller into smaller functions #31545
+2021-01-11T01:55:47.945812 - 29007. fix: fix broken CSS in mobile view #29007
