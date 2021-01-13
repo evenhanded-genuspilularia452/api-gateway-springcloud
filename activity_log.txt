@@ -109,3 +109,4 @@
 2021-01-12T01:36:25.499869 - 72301. chore: bump dependencies #72301
 2021-01-13T01:36:25.499869 - 89874. fix: prevent crash on empty input #89874
 2021-01-13T01:36:25.499869 - 31237. style: remove trailing whitespace #31237
+2021-01-13T01:36:25.499869 - 42472. perf: lazy-load components #42472
