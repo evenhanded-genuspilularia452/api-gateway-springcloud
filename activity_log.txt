@@ -107,3 +107,4 @@
 2021-01-12T01:36:25.499869 - 59374. test: mock database connection in test suite #59374
 2021-01-12T01:36:25.499869 - 49460. fix: fix broken CSS in mobile view #49460
 2021-01-12T01:36:25.499869 - 72301. chore: bump dependencies #72301
+2021-01-13T01:36:25.499869 - 89874. fix: prevent crash on empty input #89874
