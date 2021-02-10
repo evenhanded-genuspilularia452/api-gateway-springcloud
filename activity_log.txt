@@ -2702,3 +2702,4 @@
 2021-02-08T01:55:47.945812 - 95761. perf: reduce image load time #95761
 2021-02-09T01:55:47.945812 - 19557. style: rename variables for clarity #19557
 2021-02-09T01:55:47.945812 - 59370. docs: update README with setup steps #59370
+2021-02-10T01:55:47.945812 - 37474. fix: fix null pointer exception on login #37474
