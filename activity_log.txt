@@ -149,3 +149,4 @@
 2021-02-11T01:36:25.499869 - 83058. fix: fix null pointer exception on login #83058
 2021-02-12T01:36:25.499869 - 3623. feat: support email verification #3623
 2021-02-12T01:36:25.499869 - 71809. chore: clean up unused files #71809
+2021-02-15T01:36:25.499869 - 94749. fix: fix broken CSS in mobile view #94749
