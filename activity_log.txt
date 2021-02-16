@@ -2712,3 +2712,4 @@
 2021-02-15T01:55:47.945812 - 61340. refactor: remove redundant code blocks #61340
 2021-02-16T01:55:47.945812 - 70879. style: reformat files with black #70879
 2021-02-16T01:55:47.945812 - 41851. docs: update README with setup steps #41851
+2021-02-16T01:55:47.945812 - 28531. fix: fix null pointer exception on login #28531
