@@ -2714,3 +2714,4 @@
 2021-02-16T01:55:47.945812 - 41851. docs: update README with setup steps #41851
 2021-02-16T01:55:47.945812 - 28531. fix: fix null pointer exception on login #28531
 2021-02-17T01:55:47.945812 - 94785. fix: handle 500 error in quiz API #94785
+2021-02-17T01:55:47.945812 - 18863. refactor: clean up auth middleware #18863
