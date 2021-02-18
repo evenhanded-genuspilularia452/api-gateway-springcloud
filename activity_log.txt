@@ -156,3 +156,4 @@
 2021-02-17T01:36:25.499869 - 13719. feat: add user authentication #13719
 2021-02-18T01:36:25.499869 - 28591. feat: implement quiz timer feature #28591
 2021-02-18T01:36:25.499869 - 19466. feat: add export to CSV option #19466
+2021-02-18T01:36:25.499869 - 53652. test: test user registration edge cases #53652
