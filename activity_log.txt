@@ -2719,3 +2719,4 @@
 2021-02-19T01:55:47.945812 - 20309. test: test user registration edge cases #20309
 2021-02-19T01:55:47.945812 - 52692. fix: correct typo in registration form #52692
 2021-02-19T01:55:47.945812 - 14937. perf: reduce image load time #14937
+2021-02-22T01:55:47.945812 - 79661. fix: resolve issue with date parsing #79661
