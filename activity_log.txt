@@ -162,3 +162,4 @@
 2021-02-22T01:36:25.499869 - 88832. style: remove trailing whitespace #88832
 2021-02-23T01:36:25.499869 - 36923. fix: prevent crash on empty input #36923
 2021-02-24T01:36:25.499869 - 13565. style: rename variables for clarity #13565
+2021-02-24T01:36:25.499869 - 46211. fix: correct typo in registration form #46211
