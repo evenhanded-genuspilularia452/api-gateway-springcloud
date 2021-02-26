@@ -166,3 +166,4 @@
 2021-02-25T01:36:25.499869 - 12087. test: add integration test for /submit endpoint #12087
 2021-02-26T01:36:25.499869 - 58084. style: reformat files with black #58084
 2021-02-26T01:36:25.499869 - 14510. docs: write FAQ section #14510
+2021-02-26T01:36:25.499869 - 21012. fix: prevent crash on empty input #21012
