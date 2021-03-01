@@ -168,3 +168,4 @@
 2021-02-26T01:36:25.499869 - 14510. docs: write FAQ section #14510
 2021-02-26T01:36:25.499869 - 21012. fix: prevent crash on empty input #21012
 2021-03-01T01:36:25.499869 - 5226. docs: document token refresh logic #5226
+2021-03-01T01:36:25.499869 - 8563. test: add integration test for /submit endpoint #8563
