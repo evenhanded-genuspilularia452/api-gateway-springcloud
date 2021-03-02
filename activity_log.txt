@@ -2733,3 +2733,4 @@
 2021-03-01T01:55:47.945812 - 35635. feat: add user authentication #35635
 2021-03-01T01:55:47.945812 - 30223. chore: add GitHub actions badge #30223
 2021-03-02T01:55:47.945812 - 59084. chore: rename env.example #59084
+2021-03-02T01:55:47.945812 - 78069. feat: support email verification #78069
