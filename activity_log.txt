@@ -171,3 +171,4 @@
 2021-03-01T01:36:25.499869 - 8563. test: add integration test for /submit endpoint #8563
 2021-03-01T01:36:25.499869 - 42036. test: increase coverage on auth module #42036
 2021-03-02T01:36:25.499869 - 5816. test: add integration test for /submit endpoint #5816
+2021-03-02T01:36:25.499869 - 10015. fix: fix broken CSS in mobile view #10015
