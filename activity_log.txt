@@ -2739,3 +2739,4 @@
 2021-03-03T01:55:47.945812 - 98705. feat: create admin dashboard #98705
 2021-03-04T01:55:47.945812 - 53308. fix: resolve issue with date parsing #53308
 2021-03-04T01:55:47.945812 - 9826. chore: bump dependencies #9826
+2021-03-05T01:55:47.945812 - 33186. docs: write FAQ section #33186
