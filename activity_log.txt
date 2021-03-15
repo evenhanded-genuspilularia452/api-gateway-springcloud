@@ -189,3 +189,4 @@
 2021-03-12T01:36:25.499869 - 5910. test: add integration test for /submit endpoint #5910
 2021-03-15T01:36:25.499869 - 14548. test: test user registration edge cases #14548
 2021-03-15T01:36:25.499869 - 1120. style: apply consistent indentation #1120
+2021-03-15T01:36:25.499869 - 18027. chore: rename env.example #18027
