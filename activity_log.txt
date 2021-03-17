@@ -2755,3 +2755,4 @@
 2021-03-15T01:55:47.945812 - 48349. refactor: split large controller into smaller functions #48349
 2021-03-16T01:55:47.945812 - 59413. fix: resolve issue with date parsing #59413
 2021-03-16T01:55:47.945812 - 76462. docs: clarify environment setup #76462
+2021-03-17T01:55:47.945812 - 52661. docs: update README with setup steps #52661
