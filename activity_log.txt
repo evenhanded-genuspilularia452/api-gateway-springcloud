@@ -195,3 +195,4 @@
 2021-03-17T01:36:25.499869 - 53300. fix: fix broken CSS in mobile view #53300
 2021-03-17T01:36:25.499869 - 9428. refactor: organize models into subfolders #9428
 2021-03-17T01:36:25.499869 - 92310. perf: reduce image load time #92310
+2021-03-18T01:36:25.499869 - 58149. test: add integration test for /submit endpoint #58149
