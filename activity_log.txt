@@ -200,3 +200,4 @@
 2021-03-19T01:36:25.499869 - 30923. style: standardize quote style #30923
 2021-03-19T01:36:25.499869 - 40850. perf: lazy-load components #40850
 2021-03-22T01:36:25.499869 - 66975. feat: create admin dashboard #66975
+2021-03-22T01:36:25.499869 - 88843. docs: write FAQ section #88843
