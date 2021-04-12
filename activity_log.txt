@@ -2793,3 +2793,4 @@
 2021-04-08T01:55:47.945812 - 72682. style: remove trailing whitespace #72682
 2021-04-08T01:55:47.945812 - 17836. refactor: split large controller into smaller functions #17836
 2021-04-09T01:55:47.945812 - 88798. refactor: organize models into subfolders #88798
+2021-04-12T01:55:47.945812 - 44070. fix: handle 500 error in quiz API #44070
