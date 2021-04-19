@@ -2803,3 +2803,4 @@
 2021-04-16T01:55:47.945812 - 10684. docs: write FAQ section #10684
 2021-04-16T01:55:47.945812 - 2855. test: mock database connection in test suite #2855
 2021-04-16T01:55:47.945812 - 90959. chore: clean up unused files #90959
+2021-04-19T01:55:47.945812 - 38519. fix: resolve issue with date parsing #38519
