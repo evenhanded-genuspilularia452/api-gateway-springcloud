@@ -238,3 +238,4 @@
 2021-04-21T01:36:25.499869 - 46110. style: apply consistent indentation #46110
 2021-04-22T01:36:25.499869 - 62354. docs: document token refresh logic #62354
 2021-04-22T01:36:25.499869 - 63257. feat: add user authentication #63257
+2021-04-22T01:36:25.499869 - 63089. docs: clarify environment setup #63089
