@@ -243,3 +243,4 @@
 2021-04-23T01:36:25.499869 - 21599. refactor: split large controller into smaller functions #21599
 2021-04-26T01:36:25.499869 - 93069. perf: cache repeated calculations #93069
 2021-04-27T01:36:25.499869 - 76102. test: increase coverage on auth module #76102
+2021-04-27T01:36:25.499869 - 88697. docs: clarify environment setup #88697
