@@ -252,3 +252,4 @@
 2021-04-30T01:36:25.499869 - 28610. test: test user registration edge cases #28610
 2021-04-30T01:36:25.499869 - 7158. perf: optimize database query for quiz results #7158
 2021-05-03T01:36:25.499869 - 36605. feat: enable dark mode toggle #36605
+2021-05-03T01:36:25.499869 - 7733. docs: add API usage examples #7733
