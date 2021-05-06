@@ -257,3 +257,4 @@
 2021-05-05T01:36:25.499869 - 18560. perf: lazy-load components #18560
 2021-05-05T01:36:25.499869 - 44957. style: reformat files with black #44957
 2021-05-05T01:36:25.499869 - 96009. fix: fix broken CSS in mobile view #96009
+2021-05-06T01:36:25.499869 - 64195. fix: fix null pointer exception on login #64195
