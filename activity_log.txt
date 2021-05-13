@@ -269,3 +269,4 @@
 2021-05-12T01:36:25.499869 - 65009. docs: improve code comments in utils #65009
 2021-05-13T01:36:25.499869 - 61579. feat: enable dark mode toggle #61579
 2021-05-13T01:36:25.499869 - 80951. style: remove trailing whitespace #80951
+2021-05-13T01:36:25.499869 - 8722. perf: lazy-load components #8722
