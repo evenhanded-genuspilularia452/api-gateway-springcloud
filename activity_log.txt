@@ -286,3 +286,4 @@
 2021-05-24T01:36:25.499869 - 62920. docs: improve code comments in utils #62920
 2021-05-25T01:36:25.499869 - 23411. feat: enable dark mode toggle #23411
 2021-05-25T01:36:25.499869 - 88431. chore: clean up unused files #88431
+2021-05-25T01:36:25.499869 - 76840. fix: handle 500 error in quiz API #76840
