@@ -2861,3 +2861,4 @@
 2021-05-26T01:55:47.945812 - 98893. test: add unit test for quiz service #98893
 2021-05-26T01:55:47.945812 - 11049. fix: resolve issue with date parsing #11049
 2021-05-26T01:55:47.945812 - 14195. refactor: remove redundant code blocks #14195
+2021-05-27T01:55:47.945812 - 93527. fix: handle 500 error in quiz API #93527
