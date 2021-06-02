@@ -297,3 +297,4 @@
 2021-05-31T01:36:25.499869 - 30013. refactor: refactor quiz grading logic #30013
 2021-06-01T01:36:25.499869 - 36939. feat: implement quiz timer feature #36939
 2021-06-02T01:36:25.499869 - 47953. docs: update README with setup steps #47953
+2021-06-02T01:36:25.499869 - 49327. fix: fix null pointer exception on login #49327
