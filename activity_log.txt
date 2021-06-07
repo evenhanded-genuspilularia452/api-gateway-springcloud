@@ -2877,3 +2877,4 @@
 2021-06-04T01:55:47.945812 - 14116. fix: fix null pointer exception on login #14116
 2021-06-04T01:55:47.945812 - 34302. style: rename variables for clarity #34302
 2021-06-07T01:55:47.945812 - 16493. test: mock database connection in test suite #16493
+2021-06-07T01:55:47.945812 - 78718. docs: add API usage examples #78718
