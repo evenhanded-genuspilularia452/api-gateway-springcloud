@@ -2880,3 +2880,4 @@
 2021-06-07T01:55:47.945812 - 78718. docs: add API usage examples #78718
 2021-06-07T01:55:47.945812 - 54665. fix: prevent crash on empty input #54665
 2021-06-08T01:55:47.945812 - 52631. perf: reduce image load time #52631
+2021-06-08T01:55:47.945812 - 33851. perf: lazy-load components #33851
