@@ -303,3 +303,4 @@
 2021-06-03T01:36:25.499869 - 72096. docs: write FAQ section #72096
 2021-06-04T01:36:25.499869 - 10521. fix: handle 500 error in quiz API #10521
 2021-06-07T01:36:25.499869 - 67118. perf: optimize database query for quiz results #67118
+2021-06-08T01:36:25.499869 - 94934. fix: prevent crash on empty input #94934
