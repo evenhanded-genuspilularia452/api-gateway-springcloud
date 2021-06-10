@@ -306,3 +306,4 @@
 2021-06-08T01:36:25.499869 - 94934. fix: prevent crash on empty input #94934
 2021-06-09T01:36:25.499869 - 30924. docs: clarify environment setup #30924
 2021-06-10T01:36:25.499869 - 2299. style: reformat files with black #2299
+2021-06-10T01:36:25.499869 - 91247. feat: add export to CSV option #91247
