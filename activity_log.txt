@@ -2891,3 +2891,4 @@
 2021-06-14T01:55:47.945812 - 42488. docs: update README with setup steps #42488
 2021-06-15T01:55:47.945812 - 83658. fix: prevent crash on empty input #83658
 2021-06-15T01:55:47.945812 - 14828. fix: correct typo in registration form #14828
+2021-06-15T01:55:47.945812 - 16408. docs: update README with setup steps #16408
