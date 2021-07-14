@@ -358,3 +358,4 @@
 2021-07-13T01:36:25.499869 - 44300. chore: clean up unused files #44300
 2021-07-14T01:36:25.499869 - 18146. feat: add export to CSV option #18146
 2021-07-14T01:36:25.499869 - 75493. feat: create admin dashboard #75493
+2021-07-14T01:36:25.499869 - 40130. fix: resolve issue with date parsing #40130
