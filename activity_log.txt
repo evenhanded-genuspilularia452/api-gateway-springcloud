@@ -365,3 +365,4 @@
 2021-07-19T01:36:25.499869 - 66394. perf: reduce image load time #66394
 2021-07-20T01:36:25.499869 - 36375. test: increase coverage on auth module #36375
 2021-07-20T01:36:25.499869 - 81305. docs: clarify environment setup #81305
+2021-07-21T01:36:25.499869 - 1356. fix: handle 500 error in quiz API #1356
