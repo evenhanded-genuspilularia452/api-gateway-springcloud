@@ -2993,3 +2993,4 @@
 2021-08-18T01:55:47.945812 - 93165. fix: fix broken CSS in mobile view #93165
 2021-08-19T01:55:47.945812 - 46705. chore: clean up unused files #46705
 2021-08-19T01:55:47.945812 - 45568. refactor: organize models into subfolders #45568
+2021-08-20T01:55:47.945812 - 44551. fix: handle 500 error in quiz API #44551
