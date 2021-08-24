@@ -2996,3 +2996,4 @@
 2021-08-20T01:55:47.945812 - 44551. fix: handle 500 error in quiz API #44551
 2021-08-23T01:55:47.945812 - 27109. docs: update README with setup steps #27109
 2021-08-24T01:55:47.945812 - 54976. chore: add GitHub actions badge #54976
+2021-08-24T01:55:47.945812 - 9422. feat: add export to CSV option #9422
