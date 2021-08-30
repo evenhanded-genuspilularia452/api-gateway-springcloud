@@ -417,3 +417,4 @@
 2021-08-27T01:36:25.499869 - 89295. test: add unit test for quiz service #89295
 2021-08-30T01:36:25.499869 - 56630. perf: reduce image load time #56630
 2021-08-30T01:36:25.499869 - 69632. feat: add user authentication #69632
+2021-08-30T01:36:25.499869 - 94379. feat: support email verification #94379
