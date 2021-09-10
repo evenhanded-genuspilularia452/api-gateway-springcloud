@@ -432,3 +432,4 @@
 2021-09-08T01:36:25.499869 - 84118. fix: correct typo in registration form #84118
 2021-09-09T01:36:25.499869 - 17193. refactor: remove redundant code blocks #17193
 2021-09-09T01:36:25.499869 - 75123. docs: improve code comments in utils #75123
+2021-09-10T01:36:25.499869 - 63529. docs: write FAQ section #63529
