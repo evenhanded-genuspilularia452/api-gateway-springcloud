@@ -436,3 +436,4 @@
 2021-09-10T01:36:25.499869 - 98405. docs: add API usage examples #98405
 2021-09-10T01:36:25.499869 - 29960. refactor: remove redundant code blocks #29960
 2021-09-13T01:36:25.499869 - 0999. feat: support email verification #999
+2021-09-14T01:36:25.499869 - 89394. feat: add user authentication #89394
