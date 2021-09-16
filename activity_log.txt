@@ -441,3 +441,4 @@
 2021-09-15T01:36:25.499869 - 80613. fix: handle 500 error in quiz API #80613
 2021-09-15T01:36:25.499869 - 52188. refactor: organize models into subfolders #52188
 2021-09-15T01:36:25.499869 - 28466. fix: correct typo in registration form #28466
+2021-09-16T01:36:25.499869 - 88123. style: standardize quote style #88123
