@@ -448,3 +448,4 @@
 2021-09-20T01:36:25.499869 - 28671. test: add integration test for /submit endpoint #28671
 2021-09-20T01:36:25.499869 - 13714. perf: cache repeated calculations #13714
 2021-09-21T01:36:25.499869 - 86443. chore: clean up unused files #86443
+2021-09-21T01:36:25.499869 - 60520. fix: handle 500 error in quiz API #60520
