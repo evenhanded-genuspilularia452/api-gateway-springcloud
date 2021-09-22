@@ -450,3 +450,4 @@
 2021-09-21T01:36:25.499869 - 86443. chore: clean up unused files #86443
 2021-09-21T01:36:25.499869 - 60520. fix: handle 500 error in quiz API #60520
 2021-09-22T01:36:25.499869 - 26717. test: test user registration edge cases #26717
+2021-09-22T01:36:25.499869 - 6354. fix: correct typo in registration form #6354
