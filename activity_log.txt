@@ -485,3 +485,4 @@
 2021-10-15T01:36:25.499869 - 22709. style: standardize quote style #22709
 2021-10-18T01:36:25.499869 - 92242. feat: create admin dashboard #92242
 2021-10-19T01:36:25.499869 - 31369. refactor: refactor quiz grading logic #31369
+2021-10-19T01:36:25.499869 - 4875. perf: reduce image load time #4875
