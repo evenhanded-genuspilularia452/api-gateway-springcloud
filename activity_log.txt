@@ -509,3 +509,4 @@
 2021-11-03T01:36:25.499869 - 39410. feat: add export to CSV option #39410
 2021-11-04T01:36:25.499869 - 99739. style: remove trailing whitespace #99739
 2021-11-04T01:36:25.499869 - 52370. chore: bump dependencies #52370
+2021-11-04T01:36:25.499869 - 25391. docs: clarify environment setup #25391
