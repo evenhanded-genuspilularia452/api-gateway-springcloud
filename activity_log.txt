@@ -527,3 +527,4 @@
 2021-11-17T01:36:25.499869 - 70419. test: increase coverage on auth module #70419
 2021-11-18T01:36:25.499869 - 55626. style: standardize quote style #55626
 2021-11-18T01:36:25.499869 - 62635. fix: handle 500 error in quiz API #62635
+2021-11-18T01:36:25.499869 - 98064. docs: document token refresh logic #98064
