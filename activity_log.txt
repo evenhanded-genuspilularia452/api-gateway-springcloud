@@ -3120,3 +3120,4 @@
 2021-11-22T01:55:47.945812 - 93070. fix: fix null pointer exception on login #93070
 2021-11-22T01:55:47.945812 - 99856. refactor: remove redundant code blocks #99856
 2021-11-23T01:55:47.945812 - 38550. fix: handle 500 error in quiz API #38550
+2021-11-23T01:55:47.945812 - 10622. fix: fix null pointer exception on login #10622
