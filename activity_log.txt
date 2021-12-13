@@ -562,3 +562,4 @@
 2021-12-10T01:36:25.499869 - 85015. test: mock database connection in test suite #85015
 2021-12-10T01:36:25.499869 - 46624. feat: create admin dashboard #46624
 2021-12-10T01:36:25.499869 - 75527. feat: support email verification #75527
+2021-12-13T01:36:25.499869 - 33762. fix: prevent crash on empty input #33762
