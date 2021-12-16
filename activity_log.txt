@@ -569,3 +569,4 @@
 2021-12-15T01:36:25.499869 - 7582. refactor: remove redundant code blocks #7582
 2021-12-15T01:36:25.499869 - 27232. style: apply consistent indentation #27232
 2021-12-15T01:36:25.499869 - 25300. feat: support email verification #25300
+2021-12-16T01:36:25.499869 - 1170. chore: rename env.example #1170
