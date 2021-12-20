@@ -3159,3 +3159,4 @@
 2021-12-16T01:55:47.945812 - 63717. fix: correct typo in registration form #63717
 2021-12-17T01:55:47.945812 - 98506. fix: fix broken CSS in mobile view #98506
 2021-12-17T01:55:47.945812 - 52164. perf: lazy-load components #52164
+2021-12-20T01:55:47.945812 - 38706. refactor: clean up auth middleware #38706
