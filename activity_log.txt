@@ -580,3 +580,4 @@
 2021-12-22T01:36:25.499869 - 16800. refactor: remove redundant code blocks #16800
 2021-12-23T01:36:25.499869 - 26172. feat: support email verification #26172
 2021-12-23T01:36:25.499869 - 41520. feat: create admin dashboard #41520
+2021-12-24T01:36:25.499869 - 61120. refactor: organize models into subfolders #61120
