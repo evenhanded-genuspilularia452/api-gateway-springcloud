@@ -588,3 +588,4 @@
 2021-12-28T01:36:25.499869 - 20508. feat: support email verification #20508
 2021-12-29T01:36:25.499869 - 72551. fix: correct typo in registration form #72551
 2021-12-30T01:36:25.499869 - 86426. docs: document token refresh logic #86426
+2021-12-30T01:36:25.499869 - 8725. chore: rename env.example #8725
