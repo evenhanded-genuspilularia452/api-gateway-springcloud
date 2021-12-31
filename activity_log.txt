@@ -591,3 +591,4 @@
 2021-12-30T01:36:25.499869 - 8725. chore: rename env.example #8725
 2021-12-31T01:36:25.499869 - 62193. style: rename variables for clarity #62193
 2021-12-31T01:36:25.499869 - 15124. feat: support email verification #15124
+2021-12-31T01:36:25.499869 - 59727. feat: add user authentication #59727
