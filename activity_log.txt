@@ -3192,3 +3192,4 @@
 2022-01-10T01:55:47.945812 - 65118. refactor: clean up auth middleware #65118
 2022-01-11T01:55:47.945812 - 71126. chore: add GitHub actions badge #71126
 2022-01-11T01:55:47.945812 - 92917. fix: correct typo in registration form #92917
+2022-01-12T01:55:47.945812 - 10862. fix: fix null pointer exception on login #10862
