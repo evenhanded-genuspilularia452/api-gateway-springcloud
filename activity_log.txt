@@ -3200,3 +3200,4 @@
 2022-01-18T01:55:47.945812 - 6015. feat: enable dark mode toggle #6015
 2022-01-18T01:55:47.945812 - 80717. fix: fix null pointer exception on login #80717
 2022-01-19T01:55:47.945812 - 15787. test: increase coverage on auth module #15787
+2022-01-20T01:55:47.945812 - 14783. test: add unit test for quiz service #14783
