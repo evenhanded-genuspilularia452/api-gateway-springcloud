@@ -3203,3 +3203,4 @@
 2022-01-20T01:55:47.945812 - 14783. test: add unit test for quiz service #14783
 2022-01-21T01:55:47.945812 - 96845. refactor: refactor quiz grading logic #96845
 2022-01-21T01:55:47.945812 - 75571. test: increase coverage on auth module #75571
+2022-01-21T01:55:47.945812 - 89460. perf: optimize database query for quiz results #89460
