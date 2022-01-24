@@ -622,3 +622,4 @@
 2022-01-20T01:36:25.499869 - 39375. test: test user registration edge cases #39375
 2022-01-21T01:36:25.499869 - 62527. fix: fix null pointer exception on login #62527
 2022-01-21T01:36:25.499869 - 91014. refactor: organize models into subfolders #91014
+2022-01-24T01:36:25.499869 - 34549. refactor: clean up auth middleware #34549
