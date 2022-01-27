@@ -628,3 +628,4 @@
 2022-01-25T01:36:25.499869 - 69996. style: reformat files with black #69996
 2022-01-25T01:36:25.499869 - 49332. fix: handle 500 error in quiz API #49332
 2022-01-26T01:36:25.499869 - 46549. test: add integration test for /submit endpoint #46549
+2022-01-27T01:36:25.499869 - 0803. chore: add GitHub actions badge #803
