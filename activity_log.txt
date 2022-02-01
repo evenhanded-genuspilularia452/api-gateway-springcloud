@@ -635,3 +635,4 @@
 2022-01-31T01:36:25.499869 - 34163. docs: document token refresh logic #34163
 2022-01-31T01:36:25.499869 - 44998. test: add unit test for quiz service #44998
 2022-02-01T01:36:25.499869 - 71246. docs: clarify environment setup #71246
+2022-02-01T01:36:25.499869 - 88584. test: test user registration edge cases #88584
