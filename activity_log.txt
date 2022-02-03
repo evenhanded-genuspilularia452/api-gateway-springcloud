@@ -638,3 +638,4 @@
 2022-02-01T01:36:25.499869 - 88584. test: test user registration edge cases #88584
 2022-02-02T01:36:25.499869 - 52804. test: increase coverage on auth module #52804
 2022-02-02T01:36:25.499869 - 73266. feat: create admin dashboard #73266
+2022-02-03T01:36:25.499869 - 0552. feat: add user authentication #552
