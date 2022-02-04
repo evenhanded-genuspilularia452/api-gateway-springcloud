@@ -640,3 +640,4 @@
 2022-02-02T01:36:25.499869 - 73266. feat: create admin dashboard #73266
 2022-02-03T01:36:25.499869 - 0552. feat: add user authentication #552
 2022-02-04T01:36:25.499869 - 85834. fix: fix broken CSS in mobile view #85834
+2022-02-04T01:36:25.499869 - 13307. fix: correct typo in registration form #13307
