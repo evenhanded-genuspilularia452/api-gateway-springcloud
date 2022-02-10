@@ -3237,3 +3237,4 @@
 2022-02-09T01:55:47.945812 - 64396. feat: add user authentication #64396
 2022-02-09T01:55:47.945812 - 12757. docs: clarify environment setup #12757
 2022-02-10T01:55:47.945812 - 37662. style: standardize quote style #37662
+2022-02-10T01:55:47.945812 - 22574. fix: prevent crash on empty input #22574
