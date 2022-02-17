@@ -3249,3 +3249,4 @@
 2022-02-15T01:55:47.945812 - 14035. refactor: split large controller into smaller functions #14035
 2022-02-16T01:55:47.945812 - 43067. fix: fix broken CSS in mobile view #43067
 2022-02-16T01:55:47.945812 - 22323. refactor: remove redundant code blocks #22323
+2022-02-17T01:55:47.945812 - 18308. feat: support email verification #18308
