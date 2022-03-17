@@ -701,3 +701,4 @@
 2022-03-16T01:36:25.499869 - 45977. feat: add user authentication #45977
 2022-03-17T01:36:25.499869 - 98789. style: standardize quote style #98789
 2022-03-17T01:36:25.499869 - 85697. chore: rename env.example #85697
+2022-03-17T01:36:25.499869 - 67621. fix: prevent crash on empty input #67621
