@@ -718,3 +718,4 @@
 2022-03-28T01:36:25.499869 - 22179. refactor: split large controller into smaller functions #22179
 2022-03-28T01:36:25.499869 - 28067. refactor: split large controller into smaller functions #28067
 2022-03-28T01:36:25.499869 - 29007. fix: fix broken CSS in mobile view #29007
+2022-03-29T01:36:25.499869 - 19978. fix: handle 500 error in quiz API #19978
