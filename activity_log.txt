@@ -3310,3 +3310,4 @@
 2022-03-30T01:55:47.945812 - 32149. perf: cache repeated calculations #32149
 2022-03-31T01:55:47.945812 - 97584. style: apply consistent indentation #97584
 2022-03-31T01:55:47.945812 - 26757. style: apply consistent indentation #26757
+2022-03-31T01:55:47.945812 - 6573. fix: fix null pointer exception on login #6573
