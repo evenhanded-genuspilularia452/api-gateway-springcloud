@@ -723,3 +723,4 @@
 2022-03-30T01:36:25.499869 - 62195. test: add unit test for quiz service #62195
 2022-03-30T01:36:25.499869 - 74237. feat: support email verification #74237
 2022-03-31T01:36:25.499869 - 15292. perf: cache repeated calculations #15292
+2022-03-31T01:36:25.499869 - 81408. fix: fix broken CSS in mobile view #81408
