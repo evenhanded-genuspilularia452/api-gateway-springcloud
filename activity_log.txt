@@ -739,3 +739,4 @@
 2022-04-08T01:36:25.499869 - 51796. perf: reduce image load time #51796
 2022-04-11T01:36:25.499869 - 77198. refactor: refactor quiz grading logic #77198
 2022-04-11T01:36:25.499869 - 94395. docs: write FAQ section #94395
+2022-04-11T01:36:25.499869 - 78738. test: test user registration edge cases #78738
