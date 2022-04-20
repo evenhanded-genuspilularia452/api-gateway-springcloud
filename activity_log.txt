@@ -751,3 +751,4 @@
 2022-04-18T01:36:25.499869 - 88485. refactor: clean up auth middleware #88485
 2022-04-19T01:36:25.499869 - 70474. fix: fix null pointer exception on login #70474
 2022-04-19T01:36:25.499869 - 81783. docs: clarify environment setup #81783
+2022-04-20T01:36:25.499869 - 82022. chore: rename env.example #82022
