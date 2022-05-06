@@ -780,3 +780,4 @@
 2022-05-05T01:36:25.499869 - 7094. feat: support email verification #7094
 2022-05-05T01:36:25.499869 - 92678. feat: add export to CSV option #92678
 2022-05-06T01:36:25.499869 - 1614. perf: optimize database query for quiz results #1614
+2022-05-06T01:36:25.499869 - 3144. refactor: refactor quiz grading logic #3144
