@@ -792,3 +792,4 @@
 2022-05-13T01:36:25.499869 - 50448. fix: handle 500 error in quiz API #50448
 2022-05-16T01:36:25.499869 - 81782. feat: enable dark mode toggle #81782
 2022-05-16T01:36:25.499869 - 35718. perf: cache repeated calculations #35718
+2022-05-16T01:36:25.499869 - 19221. docs: document token refresh logic #19221
