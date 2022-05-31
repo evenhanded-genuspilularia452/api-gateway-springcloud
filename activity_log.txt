@@ -3395,3 +3395,4 @@
 2022-05-30T01:55:47.945812 - 71893. perf: reduce image load time #71893
 2022-05-30T01:55:47.945812 - 33653. fix: fix broken CSS in mobile view #33653
 2022-05-30T01:55:47.945812 - 84327. fix: prevent crash on empty input #84327
+2022-05-31T01:55:47.945812 - 90724. test: add integration test for /submit endpoint #90724
