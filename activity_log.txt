@@ -814,3 +814,4 @@
 2022-05-31T01:36:25.499869 - 13031. chore: rename env.example #13031
 2022-06-01T01:36:25.499869 - 11812. chore: rename env.example #11812
 2022-06-02T01:36:25.499869 - 97139. fix: prevent crash on empty input #97139
+2022-06-02T01:36:25.499869 - 32437. test: test user registration edge cases #32437
