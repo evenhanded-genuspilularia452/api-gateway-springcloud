@@ -3443,3 +3443,4 @@
 2022-07-04T01:55:47.945812 - 7991. fix: fix broken CSS in mobile view #7991
 2022-07-05T01:55:47.945812 - 54275. feat: implement quiz timer feature #54275
 2022-07-05T01:55:47.945812 - 5163. perf: reduce image load time #5163
+2022-07-06T01:55:47.945812 - 8527. docs: write FAQ section #8527
