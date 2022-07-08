@@ -863,3 +863,4 @@
 2022-07-06T01:36:25.499869 - 30396. feat: add user authentication #30396
 2022-07-07T01:36:25.499869 - 79230. chore: add GitHub actions badge #79230
 2022-07-07T01:36:25.499869 - 79720. fix: handle 500 error in quiz API #79720
+2022-07-08T01:36:25.499869 - 21464. feat: support email verification #21464
