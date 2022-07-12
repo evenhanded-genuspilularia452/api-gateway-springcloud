@@ -866,3 +866,4 @@
 2022-07-08T01:36:25.499869 - 21464. feat: support email verification #21464
 2022-07-11T01:36:25.499869 - 79412. docs: write FAQ section #79412
 2022-07-12T01:36:25.499869 - 96813. chore: update .gitignore #96813
+2022-07-12T01:36:25.499869 - 55549. chore: add GitHub actions badge #55549
