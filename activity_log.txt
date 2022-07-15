@@ -872,3 +872,4 @@
 2022-07-14T01:36:25.499869 - 57763. chore: add GitHub actions badge #57763
 2022-07-15T01:36:25.499869 - 96572. feat: add export to CSV option #96572
 2022-07-15T01:36:25.499869 - 89673. style: remove trailing whitespace #89673
+2022-07-15T01:36:25.499869 - 43139. docs: write FAQ section #43139
