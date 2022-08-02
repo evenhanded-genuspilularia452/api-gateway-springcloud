@@ -3483,3 +3483,4 @@
 2022-07-29T01:55:47.945812 - 1432. chore: bump dependencies #1432
 2022-08-01T01:55:47.945812 - 2477. docs: write FAQ section #2477
 2022-08-02T01:55:47.945812 - 35221. fix: prevent crash on empty input #35221
+2022-08-02T01:55:47.945812 - 43358. docs: document token refresh logic #43358
