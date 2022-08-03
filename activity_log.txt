@@ -902,3 +902,4 @@
 2022-08-02T01:36:25.499869 - 28006. chore: rename env.example #28006
 2022-08-03T01:36:25.499869 - 39728. feat: add user authentication #39728
 2022-08-03T01:36:25.499869 - 21331. fix: handle 500 error in quiz API #21331
+2022-08-03T01:36:25.499869 - 58063. refactor: organize models into subfolders #58063
