@@ -915,3 +915,4 @@
 2022-08-09T01:36:25.499869 - 16232. style: apply consistent indentation #16232
 2022-08-10T01:36:25.499869 - 10631. test: add integration test for /submit endpoint #10631
 2022-08-11T01:36:25.499869 - 88311. refactor: organize models into subfolders #88311
+2022-08-12T01:36:25.499869 - 64225. fix: fix null pointer exception on login #64225
