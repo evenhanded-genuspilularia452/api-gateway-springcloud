@@ -3513,3 +3513,4 @@
 2022-08-19T01:55:47.945812 - 15678. test: increase coverage on auth module #15678
 2022-08-22T01:55:47.945812 - 78552. docs: write FAQ section #78552
 2022-08-23T01:55:47.945812 - 55255. perf: reduce image load time #55255
+2022-08-24T01:55:47.945812 - 44059. docs: update README with setup steps #44059
