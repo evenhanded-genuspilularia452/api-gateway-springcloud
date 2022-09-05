@@ -943,3 +943,4 @@
 2022-09-02T01:36:25.499869 - 33867. feat: create admin dashboard #33867
 2022-09-05T01:36:25.499869 - 73717. fix: handle 500 error in quiz API #73717
 2022-09-05T01:36:25.499869 - 21803. feat: implement quiz timer feature #21803
+2022-09-05T01:36:25.499869 - 17425. refactor: split large controller into smaller functions #17425
