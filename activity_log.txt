@@ -941,3 +941,4 @@
 2022-09-01T01:36:25.499869 - 49524. style: standardize quote style #49524
 2022-09-02T01:36:25.499869 - 5293. style: apply consistent indentation #5293
 2022-09-02T01:36:25.499869 - 33867. feat: create admin dashboard #33867
+2022-09-05T01:36:25.499869 - 73717. fix: handle 500 error in quiz API #73717
