@@ -3548,3 +3548,4 @@
 2022-09-12T01:55:47.945812 - 70358. perf: cache repeated calculations #70358
 2022-09-13T01:55:47.945812 - 51886. fix: fix null pointer exception on login #51886
 2022-09-14T01:55:47.945812 - 1673. fix: prevent crash on empty input #1673
+2022-09-14T01:55:47.945812 - 20873. refactor: clean up auth middleware #20873
