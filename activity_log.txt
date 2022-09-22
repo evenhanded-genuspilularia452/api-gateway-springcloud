@@ -975,3 +975,4 @@
 2022-09-21T01:36:25.499869 - 46135. feat: enable dark mode toggle #46135
 2022-09-21T01:36:25.499869 - 61840. refactor: refactor quiz grading logic #61840
 2022-09-22T01:36:25.499869 - 45554. chore: update .gitignore #45554
+2022-09-22T01:36:25.499869 - 3924. docs: write FAQ section #3924
