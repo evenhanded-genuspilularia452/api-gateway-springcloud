@@ -998,3 +998,4 @@
 2022-10-07T01:36:25.499869 - 14994. perf: reduce image load time #14994
 2022-10-07T01:36:25.499869 - 46406. chore: bump dependencies #46406
 2022-10-10T01:36:25.499869 - 63773. chore: clean up unused files #63773
+2022-10-10T01:36:25.499869 - 70208. docs: document token refresh logic #70208
