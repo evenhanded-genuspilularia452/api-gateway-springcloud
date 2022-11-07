@@ -3618,3 +3618,4 @@
 2022-11-04T01:55:47.945812 - 42374. perf: lazy-load components #42374
 2022-11-04T01:55:47.945812 - 20328. perf: optimize database query for quiz results #20328
 2022-11-04T01:55:47.945812 - 17084. docs: improve code comments in utils #17084
+2022-11-07T01:55:47.945812 - 99744. docs: write FAQ section #99744
