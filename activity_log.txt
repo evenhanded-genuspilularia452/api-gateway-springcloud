@@ -1044,3 +1044,4 @@
 2022-11-11T01:36:25.499869 - 93194. style: apply consistent indentation #93194
 2022-11-14T01:36:25.499869 - 56375. chore: bump dependencies #56375
 2022-11-14T01:36:25.499869 - 91118. test: add unit test for quiz service #91118
+2022-11-14T01:36:25.499869 - 86005. fix: fix null pointer exception on login #86005
