@@ -1057,3 +1057,4 @@
 2022-11-21T01:36:25.499869 - 65932. fix: handle 500 error in quiz API #65932
 2022-11-21T01:36:25.499869 - 97869. docs: document token refresh logic #97869
 2022-11-22T01:36:25.499869 - 72992. refactor: split large controller into smaller functions #72992
+2022-11-22T01:36:25.499869 - 54617. test: test user registration edge cases #54617
