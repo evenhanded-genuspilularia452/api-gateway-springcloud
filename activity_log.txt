@@ -1062,3 +1062,4 @@
 2022-11-23T01:36:25.499869 - 42955. feat: enable dark mode toggle #42955
 2022-11-23T01:36:25.499869 - 3450. docs: write FAQ section #3450
 2022-11-24T01:36:25.499869 - 20967. docs: update README with setup steps #20967
+2022-11-24T01:36:25.499869 - 20014. chore: rename env.example #20014
