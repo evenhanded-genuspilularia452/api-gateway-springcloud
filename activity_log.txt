@@ -3662,3 +3662,4 @@
 2022-12-01T01:55:47.945812 - 2764. chore: bump dependencies #2764
 2022-12-02T01:55:47.945812 - 62320. perf: reduce image load time #62320
 2022-12-02T01:55:47.945812 - 4630. test: test user registration edge cases #4630
+2022-12-05T01:55:47.945812 - 12817. feat: create admin dashboard #12817
