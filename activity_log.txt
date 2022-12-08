@@ -1082,3 +1082,4 @@
 2022-12-06T01:36:25.499869 - 23825. feat: support email verification #23825
 2022-12-06T01:36:25.499869 - 38344. fix: fix broken CSS in mobile view #38344
 2022-12-07T01:36:25.499869 - 24941. fix: correct typo in registration form #24941
+2022-12-08T01:36:25.499869 - 63797. feat: support email verification #63797
