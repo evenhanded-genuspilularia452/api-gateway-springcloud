@@ -3672,3 +3672,4 @@
 2022-12-08T01:55:47.945812 - 36924. feat: enable dark mode toggle #36924
 2022-12-09T01:55:47.945812 - 29651. docs: document token refresh logic #29651
 2022-12-12T01:55:47.945812 - 5298. fix: prevent crash on empty input #5298
+2022-12-12T01:55:47.945812 - 0579. chore: rename env.example #579
