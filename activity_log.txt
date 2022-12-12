@@ -1085,3 +1085,4 @@
 2022-12-08T01:36:25.499869 - 63797. feat: support email verification #63797
 2022-12-09T01:36:25.499869 - 68384. refactor: organize models into subfolders #68384
 2022-12-12T01:36:25.499869 - 24386. refactor: clean up auth middleware #24386
+2022-12-12T01:36:25.499869 - 52079. test: add integration test for /submit endpoint #52079
