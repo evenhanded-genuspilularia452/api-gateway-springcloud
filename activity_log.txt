@@ -1087,3 +1087,4 @@
 2022-12-12T01:36:25.499869 - 24386. refactor: clean up auth middleware #24386
 2022-12-12T01:36:25.499869 - 52079. test: add integration test for /submit endpoint #52079
 2022-12-12T01:36:25.499869 - 85709. feat: add export to CSV option #85709
+2022-12-13T01:36:25.499869 - 63459. fix: correct typo in registration form #63459
