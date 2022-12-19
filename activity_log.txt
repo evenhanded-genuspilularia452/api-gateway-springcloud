@@ -1098,3 +1098,4 @@
 2022-12-16T01:36:25.499869 - 9368. test: increase coverage on auth module #9368
 2022-12-16T01:36:25.499869 - 58881. perf: optimize database query for quiz results #58881
 2022-12-19T01:36:25.499869 - 58602. style: apply consistent indentation #58602
+2022-12-19T01:36:25.499869 - 68816. test: add integration test for /submit endpoint #68816
