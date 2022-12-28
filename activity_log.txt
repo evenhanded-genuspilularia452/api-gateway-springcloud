@@ -1110,3 +1110,4 @@
 2022-12-26T01:36:25.499869 - 57832. chore: add GitHub actions badge #57832
 2022-12-26T01:36:25.499869 - 82837. test: add unit test for quiz service #82837
 2022-12-27T01:36:25.499869 - 69775. feat: enable dark mode toggle #69775
+2022-12-28T01:36:25.499869 - 43446. fix: fix null pointer exception on login #43446
