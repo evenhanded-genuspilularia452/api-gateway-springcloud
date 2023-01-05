@@ -3709,3 +3709,4 @@
 2023-01-04T01:55:47.945812 - 71916. test: add unit test for quiz service #71916
 2023-01-05T01:55:47.945812 - 77345. style: remove trailing whitespace #77345
 2023-01-05T01:55:47.945812 - 21646. chore: rename env.example #21646
+2023-01-05T01:55:47.945812 - 99976. fix: correct typo in registration form #99976
