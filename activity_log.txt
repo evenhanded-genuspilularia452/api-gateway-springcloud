@@ -3717,3 +3717,4 @@
 2023-01-10T01:55:47.945812 - 8572. perf: cache repeated calculations #8572
 2023-01-11T01:55:47.945812 - 81467. refactor: split large controller into smaller functions #81467
 2023-01-11T01:55:47.945812 - 73936. chore: bump dependencies #73936
+2023-01-12T01:55:47.945812 - 85705. fix: fix null pointer exception on login #85705
