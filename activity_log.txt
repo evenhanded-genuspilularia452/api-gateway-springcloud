@@ -1138,3 +1138,4 @@
 2023-01-13T01:36:25.499869 - 27163. style: apply consistent indentation #27163
 2023-01-13T01:36:25.499869 - 98188. fix: fix broken CSS in mobile view #98188
 2023-01-13T01:36:25.499869 - 39984. docs: clarify environment setup #39984
+2023-01-16T01:36:25.499869 - 81848. fix: handle 500 error in quiz API #81848
