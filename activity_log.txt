@@ -1149,3 +1149,4 @@
 2023-01-19T01:36:25.499869 - 45723. test: add unit test for quiz service #45723
 2023-01-20T01:36:25.499869 - 88328. test: add integration test for /submit endpoint #88328
 2023-01-20T01:36:25.499869 - 12417. fix: handle 500 error in quiz API #12417
+2023-01-20T01:36:25.499869 - 48641. fix: handle 500 error in quiz API #48641
