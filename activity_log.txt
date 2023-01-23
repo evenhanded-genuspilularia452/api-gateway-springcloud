@@ -1150,3 +1150,4 @@
 2023-01-20T01:36:25.499869 - 88328. test: add integration test for /submit endpoint #88328
 2023-01-20T01:36:25.499869 - 12417. fix: handle 500 error in quiz API #12417
 2023-01-20T01:36:25.499869 - 48641. fix: handle 500 error in quiz API #48641
+2023-01-23T01:36:25.499869 - 32247. test: mock database connection in test suite #32247
