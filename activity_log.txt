@@ -1158,3 +1158,4 @@
 2023-01-25T01:36:25.499869 - 1157. fix: correct typo in registration form #1157
 2023-01-26T01:36:25.499869 - 12525. docs: write FAQ section #12525
 2023-01-27T01:36:25.499869 - 72222. feat: enable dark mode toggle #72222
+2023-01-27T01:36:25.499869 - 50626. test: increase coverage on auth module #50626
