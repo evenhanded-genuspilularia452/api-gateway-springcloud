@@ -1192,3 +1192,4 @@
 2023-02-17T01:36:25.499869 - 32771. test: increase coverage on auth module #32771
 2023-02-20T01:36:25.499869 - 0184. fix: fix broken CSS in mobile view #184
 2023-02-20T01:36:25.499869 - 0266. fix: correct typo in registration form #266
+2023-02-20T01:36:25.499869 - 77799. fix: resolve issue with date parsing #77799
