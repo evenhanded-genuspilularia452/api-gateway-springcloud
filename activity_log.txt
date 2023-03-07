@@ -1214,3 +1214,4 @@
 2023-03-06T01:36:25.499869 - 48581. feat: add export to CSV option #48581
 2023-03-06T01:36:25.499869 - 57003. fix: correct typo in registration form #57003
 2023-03-07T01:36:25.499869 - 61572. fix: fix broken CSS in mobile view #61572
+2023-03-07T01:36:25.499869 - 76574. perf: lazy-load components #76574
