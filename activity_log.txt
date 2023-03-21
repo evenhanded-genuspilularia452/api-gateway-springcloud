@@ -1233,3 +1233,4 @@
 2023-03-16T01:36:25.499869 - 84887. test: add integration test for /submit endpoint #84887
 2023-03-17T01:36:25.499869 - 75601. feat: support email verification #75601
 2023-03-20T01:36:25.499869 - 94325. docs: update README with setup steps #94325
+2023-03-21T01:36:25.499869 - 61206. fix: fix null pointer exception on login #61206
