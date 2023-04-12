@@ -3847,3 +3847,4 @@
 2023-04-10T01:55:47.945812 - 99618. chore: rename env.example #99618
 2023-04-11T01:55:47.945812 - 52025. perf: lazy-load components #52025
 2023-04-12T01:55:47.945812 - 52040. feat: enable dark mode toggle #52040
+2023-04-12T01:55:47.945812 - 16688. refactor: clean up auth middleware #16688
