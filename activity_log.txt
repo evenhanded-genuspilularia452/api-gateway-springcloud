@@ -1285,3 +1285,4 @@
 2023-04-25T01:36:25.499869 - 97135. test: add unit test for quiz service #97135
 2023-04-26T01:36:25.499869 - 65942. refactor: clean up auth middleware #65942
 2023-04-27T01:36:25.499869 - 23815. style: remove trailing whitespace #23815
+2023-04-27T01:36:25.499869 - 28194. fix: fix broken CSS in mobile view #28194
