@@ -3876,3 +3876,4 @@
 2023-04-26T01:55:47.945812 - 92608. test: add unit test for quiz service #92608
 2023-04-27T01:55:47.945812 - 12864. style: standardize quote style #12864
 2023-04-27T01:55:47.945812 - 88676. docs: document token refresh logic #88676
+2023-04-27T01:55:47.945812 - 85653. fix: fix null pointer exception on login #85653
