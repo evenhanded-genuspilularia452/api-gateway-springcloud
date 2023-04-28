@@ -1287,3 +1287,4 @@
 2023-04-27T01:36:25.499869 - 23815. style: remove trailing whitespace #23815
 2023-04-27T01:36:25.499869 - 28194. fix: fix broken CSS in mobile view #28194
 2023-04-27T01:36:25.499869 - 68136. refactor: split large controller into smaller functions #68136
+2023-04-28T01:36:25.499869 - 98381. docs: document token refresh logic #98381
