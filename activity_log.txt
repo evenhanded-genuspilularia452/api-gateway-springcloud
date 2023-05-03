@@ -1293,3 +1293,4 @@
 2023-05-01T01:36:25.499869 - 31864. chore: update .gitignore #31864
 2023-05-02T01:36:25.499869 - 86889. refactor: remove redundant code blocks #86889
 2023-05-03T01:36:25.499869 - 57692. refactor: refactor quiz grading logic #57692
+2023-05-03T01:36:25.499869 - 77906. fix: handle 500 error in quiz API #77906
