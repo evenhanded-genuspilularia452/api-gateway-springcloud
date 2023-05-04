@@ -3888,3 +3888,4 @@
 2023-05-03T01:55:47.945812 - 46882. perf: optimize database query for quiz results #46882
 2023-05-03T01:55:47.945812 - 68265. perf: lazy-load components #68265
 2023-05-04T01:55:47.945812 - 58375. perf: lazy-load components #58375
+2023-05-04T01:55:47.945812 - 14288. fix: fix broken CSS in mobile view #14288
