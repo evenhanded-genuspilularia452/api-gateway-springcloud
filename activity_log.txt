@@ -1294,3 +1294,4 @@
 2023-05-02T01:36:25.499869 - 86889. refactor: remove redundant code blocks #86889
 2023-05-03T01:36:25.499869 - 57692. refactor: refactor quiz grading logic #57692
 2023-05-03T01:36:25.499869 - 77906. fix: handle 500 error in quiz API #77906
+2023-05-04T01:36:25.499869 - 80370. test: test user registration edge cases #80370
