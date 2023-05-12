@@ -1307,3 +1307,4 @@
 2023-05-10T01:36:25.499869 - 47045. feat: support email verification #47045
 2023-05-11T01:36:25.499869 - 0073. chore: update .gitignore #73
 2023-05-11T01:36:25.499869 - 71622. docs: update README with setup steps #71622
+2023-05-12T01:36:25.499869 - 4740. fix: handle 500 error in quiz API #4740
