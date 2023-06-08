@@ -3932,3 +3932,4 @@
 2023-06-07T01:55:47.945812 - 30592. refactor: remove redundant code blocks #30592
 2023-06-07T01:55:47.945812 - 12109. test: add unit test for quiz service #12109
 2023-06-07T01:55:47.945812 - 14440. test: test user registration edge cases #14440
+2023-06-08T01:55:47.945812 - 34321. feat: support email verification #34321
