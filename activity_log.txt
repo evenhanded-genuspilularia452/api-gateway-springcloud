@@ -3956,3 +3956,4 @@
 2023-06-23T01:55:47.945812 - 67742. docs: add API usage examples #67742
 2023-06-23T01:55:47.945812 - 15337. fix: resolve issue with date parsing #15337
 2023-06-26T01:55:47.945812 - 10694. test: test user registration edge cases #10694
+2023-06-27T01:55:47.945812 - 37966. docs: write FAQ section #37966
