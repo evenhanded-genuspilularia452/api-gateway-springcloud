@@ -1371,3 +1371,4 @@
 2023-06-27T01:36:25.499869 - 75082. perf: reduce image load time #75082
 2023-06-27T01:36:25.499869 - 50262. chore: clean up unused files #50262
 2023-06-28T01:36:25.499869 - 13621. feat: create admin dashboard #13621
+2023-06-28T01:36:25.499869 - 75606. docs: clarify environment setup #75606
