@@ -4000,3 +4000,4 @@
 2023-07-21T01:55:47.945812 - 77881. feat: support email verification #77881
 2023-07-24T01:55:47.945812 - 0407. fix: correct typo in registration form #407
 2023-07-25T01:55:47.945812 - 51514. chore: rename env.example #51514
+2023-07-25T01:55:47.945812 - 66622. refactor: split large controller into smaller functions #66622
