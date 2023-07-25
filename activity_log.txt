@@ -1406,3 +1406,4 @@
 2023-07-24T01:36:25.499869 - 72171. test: increase coverage on auth module #72171
 2023-07-24T01:36:25.499869 - 97916. fix: resolve issue with date parsing #97916
 2023-07-24T01:36:25.499869 - 70941. perf: cache repeated calculations #70941
+2023-07-25T01:36:25.499869 - 65871. fix: fix null pointer exception on login #65871
