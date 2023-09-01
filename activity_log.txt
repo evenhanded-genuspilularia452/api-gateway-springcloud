@@ -1464,3 +1464,4 @@
 2023-08-31T01:36:25.499869 - 67400. test: add integration test for /submit endpoint #67400
 2023-08-31T01:36:25.499869 - 54957. test: mock database connection in test suite #54957
 2023-09-01T01:36:25.499869 - 33380. fix: fix broken CSS in mobile view #33380
+2023-09-01T01:36:25.499869 - 64329. docs: update README with setup steps #64329
