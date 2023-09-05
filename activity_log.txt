@@ -1467,3 +1467,4 @@
 2023-09-01T01:36:25.499869 - 64329. docs: update README with setup steps #64329
 2023-09-01T01:36:25.499869 - 27309. style: reformat files with black #27309
 2023-09-04T01:36:25.499869 - 92505. chore: add GitHub actions badge #92505
+2023-09-05T01:36:25.499869 - 10630. fix: fix broken CSS in mobile view #10630
