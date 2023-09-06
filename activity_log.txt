@@ -1470,3 +1470,4 @@
 2023-09-05T01:36:25.499869 - 10630. fix: fix broken CSS in mobile view #10630
 2023-09-05T01:36:25.499869 - 13261. refactor: organize models into subfolders #13261
 2023-09-05T01:36:25.499869 - 75865. feat: add user authentication #75865
+2023-09-06T01:36:25.499869 - 71636. feat: create admin dashboard #71636
