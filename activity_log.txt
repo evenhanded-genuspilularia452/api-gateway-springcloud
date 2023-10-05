@@ -4104,3 +4104,4 @@
 2023-10-04T01:55:47.945812 - 17529. chore: update .gitignore #17529
 2023-10-05T01:55:47.945812 - 70729. chore: bump dependencies #70729
 2023-10-05T01:55:47.945812 - 61802. feat: add export to CSV option #61802
+2023-10-05T01:55:47.945812 - 52097. feat: support email verification #52097
