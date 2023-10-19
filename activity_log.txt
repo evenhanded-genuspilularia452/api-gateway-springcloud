@@ -1533,3 +1533,4 @@
 2023-10-18T01:36:25.499869 - 56728. refactor: split large controller into smaller functions #56728
 2023-10-18T01:36:25.499869 - 24776. perf: optimize database query for quiz results #24776
 2023-10-19T01:36:25.499869 - 97346. fix: resolve issue with date parsing #97346
+2023-10-19T01:36:25.499869 - 50548. docs: update README with setup steps #50548
