@@ -1592,3 +1592,4 @@
 2023-12-01T01:36:25.499869 - 68871. style: remove trailing whitespace #68871
 2023-12-04T01:36:25.499869 - 86256. fix: handle 500 error in quiz API #86256
 2023-12-04T01:36:25.499869 - 95436. style: reformat files with black #95436
+2023-12-04T01:36:25.499869 - 35511. docs: update README with setup steps #35511
