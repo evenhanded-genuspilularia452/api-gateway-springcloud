@@ -4188,3 +4188,4 @@
 2023-12-01T01:55:47.945812 - 63617. docs: improve code comments in utils #63617
 2023-12-01T01:55:47.945812 - 8328. style: reformat files with black #8328
 2023-12-04T01:55:47.945812 - 76791. test: add integration test for /submit endpoint #76791
+2023-12-05T01:55:47.945812 - 61565. fix: handle 500 error in quiz API #61565
