@@ -1594,3 +1594,4 @@
 2023-12-04T01:36:25.499869 - 95436. style: reformat files with black #95436
 2023-12-04T01:36:25.499869 - 35511. docs: update README with setup steps #35511
 2023-12-05T01:36:25.499869 - 18395. test: increase coverage on auth module #18395
+2023-12-05T01:36:25.499869 - 14948. feat: add export to CSV option #14948
