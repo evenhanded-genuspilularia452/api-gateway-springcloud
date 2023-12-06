@@ -1597,3 +1597,4 @@
 2023-12-05T01:36:25.499869 - 14948. feat: add export to CSV option #14948
 2023-12-06T01:36:25.499869 - 94588. test: increase coverage on auth module #94588
 2023-12-06T01:36:25.499869 - 61864. chore: rename env.example #61864
+2023-12-06T01:36:25.499869 - 62408. test: mock database connection in test suite #62408
