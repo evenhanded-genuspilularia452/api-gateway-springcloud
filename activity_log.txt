@@ -1665,3 +1665,4 @@
 2024-01-23T01:36:25.499869 - 77014. docs: clarify environment setup #77014
 2024-01-24T01:36:25.499869 - 17561. fix: fix null pointer exception on login #17561
 2024-01-24T01:36:25.499869 - 8565. docs: write FAQ section #8565
+2024-01-25T01:36:25.499869 - 55764. chore: rename env.example #55764
