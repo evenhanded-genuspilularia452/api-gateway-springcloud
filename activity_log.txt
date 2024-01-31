@@ -4274,3 +4274,4 @@
 2024-01-30T01:55:47.945812 - 91162. feat: add export to CSV option #91162
 2024-01-30T01:55:47.945812 - 61230. style: apply consistent indentation #61230
 2024-01-31T01:55:47.945812 - 20974. docs: document token refresh logic #20974
+2024-01-31T01:55:47.945812 - 37545. perf: optimize database query for quiz results #37545
