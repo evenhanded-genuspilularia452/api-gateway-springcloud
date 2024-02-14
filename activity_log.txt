@@ -4292,3 +4292,4 @@
 2024-02-12T01:55:47.945812 - 7387. docs: add API usage examples #7387
 2024-02-12T01:55:47.945812 - 66311. style: apply consistent indentation #66311
 2024-02-13T01:55:47.945812 - 80798. docs: improve code comments in utils #80798
+2024-02-14T01:55:47.945812 - 83966. fix: fix null pointer exception on login #83966
