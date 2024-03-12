@@ -1721,3 +1721,4 @@
 2024-03-11T01:36:25.499869 - 85705. fix: fix null pointer exception on login #85705
 2024-03-11T01:36:25.499869 - 36877. feat: enable dark mode toggle #36877
 2024-03-11T01:36:25.499869 - 64073. docs: write FAQ section #64073
+2024-03-12T01:36:25.499869 - 72671. docs: document token refresh logic #72671
