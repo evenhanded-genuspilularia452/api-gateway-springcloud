@@ -4334,3 +4334,4 @@
 2024-03-13T01:55:47.945812 - 12438. test: increase coverage on auth module #12438
 2024-03-14T01:55:47.945812 - 67575. chore: rename env.example #67575
 2024-03-14T01:55:47.945812 - 97802. perf: cache repeated calculations #97802
+2024-03-14T01:55:47.945812 - 32911. docs: clarify environment setup #32911
