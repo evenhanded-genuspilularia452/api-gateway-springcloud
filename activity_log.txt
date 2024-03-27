@@ -1740,3 +1740,4 @@
 2024-03-25T01:36:25.499869 - 45550. feat: create admin dashboard #45550
 2024-03-26T01:36:25.499869 - 7411. fix: correct typo in registration form #7411
 2024-03-26T01:36:25.499869 - 87586. docs: clarify environment setup #87586
+2024-03-27T01:36:25.499869 - 5783. style: standardize quote style #5783
