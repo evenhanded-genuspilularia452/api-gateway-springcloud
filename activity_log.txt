@@ -1743,3 +1743,4 @@
 2024-03-27T01:36:25.499869 - 5783. style: standardize quote style #5783
 2024-03-28T01:36:25.499869 - 77691. fix: prevent crash on empty input #77691
 2024-03-28T01:36:25.499869 - 37504. fix: fix null pointer exception on login #37504
+2024-03-29T01:36:25.499869 - 2178. fix: prevent crash on empty input #2178
