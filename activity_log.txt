@@ -1753,3 +1753,4 @@
 2024-04-03T01:36:25.499869 - 51198. perf: reduce image load time #51198
 2024-04-03T01:36:25.499869 - 3257. fix: resolve issue with date parsing #3257
 2024-04-04T01:36:25.499869 - 69402. chore: rename env.example #69402
+2024-04-04T01:36:25.499869 - 25687. docs: clarify environment setup #25687
