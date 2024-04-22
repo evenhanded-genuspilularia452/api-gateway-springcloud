@@ -1777,3 +1777,4 @@
 2024-04-19T01:36:25.499869 - 28333. chore: rename env.example #28333
 2024-04-19T01:36:25.499869 - 91477. test: test user registration edge cases #91477
 2024-04-22T01:36:25.499869 - 97197. style: remove trailing whitespace #97197
+2024-04-22T01:36:25.499869 - 85646. style: standardize quote style #85646
