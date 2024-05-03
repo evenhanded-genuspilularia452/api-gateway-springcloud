@@ -1790,3 +1790,4 @@
 2024-05-01T01:36:25.499869 - 5502. style: apply consistent indentation #5502
 2024-05-02T01:36:25.499869 - 8169. chore: rename env.example #8169
 2024-05-03T01:36:25.499869 - 41713. chore: bump dependencies #41713
+2024-05-03T01:36:25.499869 - 97034. fix: handle 500 error in quiz API #97034
