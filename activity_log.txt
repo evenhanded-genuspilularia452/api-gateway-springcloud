@@ -1827,3 +1827,4 @@
 2024-06-03T01:36:25.499869 - 93022. feat: enable dark mode toggle #93022
 2024-06-04T01:36:25.499869 - 19705. feat: add user authentication #19705
 2024-06-04T01:36:25.499869 - 67090. docs: document token refresh logic #67090
+2024-06-04T01:36:25.499869 - 35594. feat: add export to CSV option #35594
