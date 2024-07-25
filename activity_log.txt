@@ -4518,3 +4518,4 @@
 2024-07-23T01:55:47.945812 - 7540. feat: add user authentication #7540
 2024-07-24T01:55:47.945812 - 49088. chore: add GitHub actions badge #49088
 2024-07-25T01:55:47.945812 - 21820. fix: handle 500 error in quiz API #21820
+2024-07-25T01:55:47.945812 - 99784. fix: fix null pointer exception on login #99784
