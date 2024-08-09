@@ -4537,3 +4537,4 @@
 2024-08-07T01:55:47.945812 - 62308. test: add unit test for quiz service #62308
 2024-08-07T01:55:47.945812 - 40841. chore: clean up unused files #40841
 2024-08-08T01:55:47.945812 - 15836. feat: add export to CSV option #15836
+2024-08-09T01:55:47.945812 - 90382. fix: handle 500 error in quiz API #90382
