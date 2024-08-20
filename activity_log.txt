@@ -1925,3 +1925,4 @@
 2024-08-15T01:36:25.499869 - 18078. fix: fix broken CSS in mobile view #18078
 2024-08-16T01:36:25.499869 - 39232. docs: clarify environment setup #39232
 2024-08-19T01:36:25.499869 - 21567. feat: enable dark mode toggle #21567
+2024-08-20T01:36:25.499869 - 42572. docs: update README with setup steps #42572
