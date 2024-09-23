@@ -1973,3 +1973,4 @@
 2024-09-19T01:36:25.499869 - 46057. refactor: split large controller into smaller functions #46057
 2024-09-20T01:36:25.499869 - 58522. test: increase coverage on auth module #58522
 2024-09-23T01:36:25.499869 - 21520. feat: create admin dashboard #21520
+2024-09-23T01:36:25.499869 - 21036. docs: document token refresh logic #21036
