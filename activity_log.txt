@@ -1980,3 +1980,4 @@
 2024-09-26T01:36:25.499869 - 84776. refactor: refactor quiz grading logic #84776
 2024-09-26T01:36:25.499869 - 60868. fix: fix null pointer exception on login #60868
 2024-09-26T01:36:25.499869 - 69822. test: add unit test for quiz service #69822
+2024-09-27T01:36:25.499869 - 37924. fix: prevent crash on empty input #37924
