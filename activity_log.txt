@@ -4609,3 +4609,4 @@
 2024-10-01T01:55:47.945812 - 56613. perf: lazy-load components #56613
 2024-10-02T01:55:47.945812 - 38310. chore: add GitHub actions badge #38310
 2024-10-03T01:55:47.945812 - 89168. docs: clarify environment setup #89168
+2024-10-03T01:55:47.945812 - 66321. docs: update README with setup steps #66321
