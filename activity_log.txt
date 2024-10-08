@@ -4612,3 +4612,4 @@
 2024-10-03T01:55:47.945812 - 66321. docs: update README with setup steps #66321
 2024-10-04T01:55:47.945812 - 0166. fix: fix null pointer exception on login #166
 2024-10-07T01:55:47.945812 - 49354. refactor: refactor quiz grading logic #49354
+2024-10-08T01:55:47.945812 - 79927. fix: handle 500 error in quiz API #79927
