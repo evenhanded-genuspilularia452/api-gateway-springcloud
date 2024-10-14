@@ -4622,3 +4622,4 @@
 2024-10-11T01:55:47.945812 - 76667. test: add integration test for /submit endpoint #76667
 2024-10-11T01:55:47.945812 - 85457. feat: add export to CSV option #85457
 2024-10-14T01:55:47.945812 - 10064. fix: resolve issue with date parsing #10064
+2024-10-14T01:55:47.945812 - 46753. feat: add user authentication #46753
