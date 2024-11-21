@@ -2057,3 +2057,4 @@
 2024-11-20T01:36:25.499869 - 35755. docs: improve code comments in utils #35755
 2024-11-20T01:36:25.499869 - 45526. test: test user registration edge cases #45526
 2024-11-21T01:36:25.499869 - 68551. test: add unit test for quiz service #68551
+2024-11-21T01:36:25.499869 - 7518. docs: update README with setup steps #7518
