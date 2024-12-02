@@ -4699,3 +4699,4 @@
 2024-11-29T01:55:47.945812 - 96190. fix: correct typo in registration form #96190
 2024-11-29T01:55:47.945812 - 21627. feat: add export to CSV option #21627
 2024-12-02T01:55:47.945812 - 70964. style: remove trailing whitespace #70964
+2024-12-02T01:55:47.945812 - 56227. test: add integration test for /submit endpoint #56227
