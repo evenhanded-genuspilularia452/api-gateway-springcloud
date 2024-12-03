@@ -2075,3 +2075,4 @@
 2024-12-02T01:36:25.499869 - 32584. feat: add export to CSV option #32584
 2024-12-02T01:36:25.499869 - 84399. docs: clarify environment setup #84399
 2024-12-02T01:36:25.499869 - 5467. docs: write FAQ section #5467
+2024-12-03T01:36:25.499869 - 97951. feat: support email verification #97951
