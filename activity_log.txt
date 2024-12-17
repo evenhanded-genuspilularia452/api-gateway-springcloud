@@ -2104,3 +2104,4 @@
 2024-12-16T01:36:25.499869 - 81260. fix: handle 500 error in quiz API #81260
 2024-12-17T01:36:25.499869 - 12182. refactor: split large controller into smaller functions #12182
 2024-12-17T01:36:25.499869 - 41577. test: add integration test for /submit endpoint #41577
+2024-12-17T01:36:25.499869 - 47105. fix: handle 500 error in quiz API #47105
