@@ -4750,3 +4750,4 @@
 2025-01-01T01:55:47.945812 - 47629. refactor: organize models into subfolders #47629
 2025-01-02T01:55:47.945812 - 93631. docs: update README with setup steps #93631
 2025-01-02T01:55:47.945812 - 40418. chore: bump dependencies #40418
+2025-01-02T01:55:47.945812 - 92438. feat: support email verification #92438
