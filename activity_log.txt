@@ -4752,3 +4752,4 @@
 2025-01-02T01:55:47.945812 - 40418. chore: bump dependencies #40418
 2025-01-02T01:55:47.945812 - 92438. feat: support email verification #92438
 2025-01-03T01:55:47.945812 - 9428. refactor: organize models into subfolders #9428
+2025-01-03T01:55:47.945812 - 3020. refactor: clean up auth middleware #3020
