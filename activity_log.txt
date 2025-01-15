@@ -2147,3 +2147,4 @@
 2025-01-14T01:36:25.499869 - 80396. style: rename variables for clarity #80396
 2025-01-14T01:36:25.499869 - 57381. style: reformat files with black #57381
 2025-01-15T01:36:25.499869 - 1091. feat: enable dark mode toggle #1091
+2025-01-15T01:36:25.499869 - 17504. docs: clarify environment setup #17504
