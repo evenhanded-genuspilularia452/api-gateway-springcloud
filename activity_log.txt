@@ -4819,3 +4819,4 @@
 2025-02-13T01:55:47.945812 - 23498. fix: fix null pointer exception on login #23498
 2025-02-13T01:55:47.945812 - 47980. chore: clean up unused files #47980
 2025-02-14T01:55:47.945812 - 91871. perf: lazy-load components #91871
+2025-02-14T01:55:47.945812 - 59977. fix: handle 500 error in quiz API #59977
