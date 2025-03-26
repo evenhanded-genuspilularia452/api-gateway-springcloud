@@ -4871,3 +4871,4 @@
 2025-03-24T01:55:47.945812 - 43996. feat: add export to CSV option #43996
 2025-03-25T01:55:47.945812 - 1322. style: standardize quote style #1322
 2025-03-26T01:55:47.945812 - 88134. feat: enable dark mode toggle #88134
+2025-03-26T01:55:47.945812 - 92718. chore: rename env.example #92718
