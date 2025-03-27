@@ -2251,3 +2251,4 @@
 2025-03-25T01:36:25.499869 - 68961. test: mock database connection in test suite #68961
 2025-03-26T01:36:25.499869 - 44549. feat: create admin dashboard #44549
 2025-03-26T01:36:25.499869 - 29682. feat: support email verification #29682
+2025-03-27T01:36:25.499869 - 64550. fix: fix null pointer exception on login #64550
