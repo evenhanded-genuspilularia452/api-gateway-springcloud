@@ -4876,3 +4876,4 @@
 2025-03-27T01:55:47.945812 - 41603. docs: add API usage examples #41603
 2025-03-27T01:55:47.945812 - 19592. refactor: organize models into subfolders #19592
 2025-03-28T01:55:47.945812 - 92682. style: reformat files with black #92682
+2025-03-31T01:55:47.945812 - 3960. fix: handle 500 error in quiz API #3960
