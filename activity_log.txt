@@ -2286,3 +2286,4 @@
 2025-04-23T01:36:25.499869 - 8916. refactor: clean up auth middleware #8916
 2025-04-24T01:36:25.499869 - 71841. refactor: organize models into subfolders #71841
 2025-04-24T01:36:25.499869 - 83860. chore: clean up unused files #83860
+2025-04-24T01:36:25.499869 - 72870. docs: update README with setup steps #72870
