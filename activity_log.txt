@@ -2291,3 +2291,4 @@
 2025-04-25T01:36:25.499869 - 96708. refactor: organize models into subfolders #96708
 2025-04-25T01:36:25.499869 - 59369. chore: rename env.example #59369
 2025-04-28T01:36:25.499869 - 67791. docs: clarify environment setup #67791
+2025-04-28T01:36:25.499869 - 83905. chore: update .gitignore #83905
