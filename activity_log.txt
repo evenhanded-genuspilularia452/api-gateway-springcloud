@@ -2313,3 +2313,4 @@
 2025-05-09T01:36:25.499869 - 24045. chore: bump dependencies #24045
 2025-05-12T01:36:25.499869 - 33496. perf: reduce image load time #33496
 2025-05-13T01:36:25.499869 - 11723. fix: fix broken CSS in mobile view #11723
+2025-05-14T01:36:25.499869 - 79138. docs: update README with setup steps #79138
