@@ -2329,3 +2329,4 @@
 2025-05-23T01:36:25.499869 - 56652. test: test user registration edge cases #56652
 2025-05-26T01:36:25.499869 - 73627. docs: update README with setup steps #73627
 2025-05-26T01:36:25.499869 - 5462. feat: add export to CSV option #5462
+2025-05-26T01:36:25.499869 - 56817. perf: lazy-load components #56817
