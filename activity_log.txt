@@ -4960,3 +4960,4 @@
 2025-05-23T01:55:47.945812 - 88768. feat: add user authentication #88768
 2025-05-26T01:55:47.945812 - 77449. chore: update .gitignore #77449
 2025-05-26T01:55:47.945812 - 56992. refactor: organize models into subfolders #56992
+2025-05-26T01:55:47.945812 - 35225. docs: update README with setup steps #35225
