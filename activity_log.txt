@@ -4964,3 +4964,4 @@
 2025-05-27T01:55:47.945812 - 0576. style: standardize quote style #576
 2025-05-28T01:55:47.945812 - 70074. test: mock database connection in test suite #70074
 2025-05-28T01:55:47.945812 - 98815. chore: clean up unused files #98815
+2025-05-29T01:55:47.945812 - 97198. docs: update README with setup steps #97198
