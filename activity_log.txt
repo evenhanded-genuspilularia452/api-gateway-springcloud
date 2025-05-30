@@ -4968,3 +4968,4 @@
 2025-05-29T01:55:47.945812 - 21661. refactor: refactor quiz grading logic #21661
 2025-05-29T01:55:47.945812 - 97707. perf: reduce image load time #97707
 2025-05-30T01:55:47.945812 - 77066. docs: write FAQ section #77066
+2025-05-30T01:55:47.945812 - 47967. chore: add GitHub actions badge #47967
