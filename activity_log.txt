@@ -4975,3 +4975,4 @@
 2025-06-03T01:55:47.945812 - 34025. perf: cache repeated calculations #34025
 2025-06-04T01:55:47.945812 - 30956. perf: lazy-load components #30956
 2025-06-04T01:55:47.945812 - 8956. refactor: organize models into subfolders #8956
+2025-06-04T01:55:47.945812 - 35258. docs: clarify environment setup #35258
