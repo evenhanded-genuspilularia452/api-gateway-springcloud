@@ -5000,3 +5000,4 @@
 2025-06-20T01:55:47.945812 - 54460. test: add unit test for quiz service #54460
 2025-06-23T01:55:47.945812 - 48135. refactor: organize models into subfolders #48135
 2025-06-23T01:55:47.945812 - 59713. chore: rename env.example #59713
+2025-06-24T01:55:47.945812 - 22332. perf: optimize database query for quiz results #22332
