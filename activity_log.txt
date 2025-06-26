@@ -5005,3 +5005,4 @@
 2025-06-24T01:55:47.945812 - 57809. feat: support email verification #57809
 2025-06-25T01:55:47.945812 - 26658. perf: lazy-load components #26658
 2025-06-25T01:55:47.945812 - 47175. docs: clarify environment setup #47175
+2025-06-26T01:55:47.945812 - 30300. fix: prevent crash on empty input #30300
