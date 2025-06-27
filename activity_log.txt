@@ -2374,3 +2374,4 @@
 2025-06-24T01:36:25.499869 - 53904. fix: correct typo in registration form #53904
 2025-06-25T01:36:25.499869 - 74266. refactor: organize models into subfolders #74266
 2025-06-26T01:36:25.499869 - 35043. test: test user registration edge cases #35043
+2025-06-27T01:36:25.499869 - 33827. docs: document token refresh logic #33827
