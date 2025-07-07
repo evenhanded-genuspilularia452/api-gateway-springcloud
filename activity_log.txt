@@ -2387,3 +2387,4 @@
 2025-07-04T01:36:25.499869 - 27933. feat: create admin dashboard #27933
 2025-07-04T01:36:25.499869 - 11506. docs: update README with setup steps #11506
 2025-07-07T01:36:25.499869 - 56167. test: add integration test for /submit endpoint #56167
+2025-07-07T01:36:25.499869 - 49530. feat: support email verification #49530
