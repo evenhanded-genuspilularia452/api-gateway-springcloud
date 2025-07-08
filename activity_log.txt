@@ -5020,3 +5020,4 @@
 2025-07-04T01:55:47.945812 - 53029. style: reformat files with black #53029
 2025-07-07T01:55:47.945812 - 21029. chore: rename env.example #21029
 2025-07-07T01:55:47.945812 - 23500. fix: resolve issue with date parsing #23500
+2025-07-08T01:55:47.945812 - 50132. feat: add export to CSV option #50132
