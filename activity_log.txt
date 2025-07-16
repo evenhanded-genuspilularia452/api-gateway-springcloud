@@ -2400,3 +2400,4 @@
 2025-07-15T01:36:25.499869 - 92294. refactor: clean up auth middleware #92294
 2025-07-15T01:36:25.499869 - 81786. fix: fix broken CSS in mobile view #81786
 2025-07-15T01:36:25.499869 - 77778. feat: enable dark mode toggle #77778
+2025-07-16T01:36:25.499869 - 44620. feat: add export to CSV option #44620
