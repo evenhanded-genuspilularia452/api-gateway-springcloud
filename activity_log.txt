@@ -5053,3 +5053,4 @@
 2025-07-28T01:55:47.945812 - 3916. feat: add export to CSV option #3916
 2025-07-29T01:55:47.945812 - 44506. feat: add export to CSV option #44506
 2025-07-29T01:55:47.945812 - 20332. feat: support email verification #20332
+2025-07-29T01:55:47.945812 - 64802. fix: fix broken CSS in mobile view #64802
