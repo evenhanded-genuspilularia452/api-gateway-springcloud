@@ -2430,3 +2430,4 @@
 2025-08-05T01:36:25.499869 - 84082. chore: add GitHub actions badge #84082
 2025-08-06T01:36:25.499869 - 99395. chore: clean up unused files #99395
 2025-08-06T01:36:25.499869 - 78089. perf: cache repeated calculations #78089
+2025-08-06T01:36:25.499869 - 14359. docs: update README with setup steps #14359
