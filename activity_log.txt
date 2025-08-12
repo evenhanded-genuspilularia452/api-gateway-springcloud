@@ -5072,3 +5072,4 @@
 2025-08-11T01:55:47.945812 - 32122. perf: cache repeated calculations #32122
 2025-08-11T01:55:47.945812 - 40813. feat: support email verification #40813
 2025-08-12T01:55:47.945812 - 80268. chore: update .gitignore #80268
+2025-08-12T01:55:47.945812 - 81837. docs: write FAQ section #81837
