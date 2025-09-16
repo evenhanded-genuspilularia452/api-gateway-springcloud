@@ -5120,3 +5120,4 @@
 2025-09-12T01:55:47.945812 - 31283. fix: correct typo in registration form #31283
 2025-09-15T01:55:47.945812 - 10922. style: reformat files with black #10922
 2025-09-15T01:55:47.945812 - 13546. feat: add export to CSV option #13546
+2025-09-16T01:55:47.945812 - 44186. fix: fix null pointer exception on login #44186
