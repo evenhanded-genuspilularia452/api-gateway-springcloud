@@ -2522,3 +2522,4 @@
 2025-10-03T01:36:25.499869 - 71486. fix: handle 500 error in quiz API #71486
 2025-10-06T01:36:25.499869 - 18230. docs: write FAQ section #18230
 2025-10-06T01:36:25.499869 - 76320. feat: add export to CSV option #76320
+2025-10-06T01:36:25.499869 - 52157. fix: prevent crash on empty input #52157
