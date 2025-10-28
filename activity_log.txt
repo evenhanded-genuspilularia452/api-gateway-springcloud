@@ -2553,3 +2553,4 @@
 2025-10-27T01:36:25.499869 - 53891. fix: fix null pointer exception on login #53891
 2025-10-28T01:36:25.499869 - 74760. refactor: organize models into subfolders #74760
 2025-10-28T01:36:25.499869 - 20507. refactor: organize models into subfolders #20507
+2025-10-28T01:36:25.499869 - 58172. fix: fix broken CSS in mobile view #58172
